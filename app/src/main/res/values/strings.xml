@@ -1,0 +1,34 @@
+<resources>
+    <string name="profile_image_desc">Imagen de perfil</string>
+    <string name="profile_name">Nombre del Usuario</string>
+    <string name="view_tournaments">Ver Torneos</string>
+    <string name="edit_profile">Editar Perfil</string>
+    <string name="settings">Configuraciones</string>
+    <string name="app_name">My Application</string>
+    <string name="Dar">Imagen de Argentina</string>
+    <string name="titulogo">Bienvenido a Go Sport</string>
+    <string name="campeonatosdisponibles">Campeonatos Disponibles</string>
+    <string name="Torneo">Torneo del Ascenso Dorado</string>
+    <string name="disciplina">Disciplina: Fútbol</string>
+    <string name="interfichas">Categoría: Interfichas</string>
+    <string name="modalidad">Modalidad: Mixto</string>
+    <string name="integrantes">Máximo de integrantes: 15</string>
+    <string name="unirme">Unirme</string>
+    <string name="home">Home</string>
+    <string name="buscar">Buscar</string>
+    <string name="perfil">Perfil</string>
+    <string name="selecion">Planilla</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string-array name="jornada_options">
+        <item>mañana</item>
+        <item>tarde</item>
+    </string-array>
+
+
+
+
+</resources>
